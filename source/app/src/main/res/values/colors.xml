@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent_black">#66000000</color>
+    <color name="colorPrimary">#ff0012</color>
+    <color name="colorPrimaryDark">#c20000</color>
+    <color name="colorPrimaryLight">#ff5a40</color>
+    <color name="colorAccent">#448AFF</color>
+    <color name="colorSecondary">#FFC107</color>
+    <color name="colorwhite">#ecffff</color>
+    <color name="colorblack">#000000</color>
+    <color name="starColor">#f7ff00</color>
+    <color name="noteDescriptionTextColor">#8945c9</color>
+    <color name="titleTextColor">@android:color/white</color>
+    <color name="contentTextColor">@android:color/white</color>
+    <color name="hintTextColor">#f2cfebec</color>
+    <color name="commentTextColor">@android:color/white</color>
+    <color name="backgroud">#f2cfece6</color>
+    <color name="green">#f224cc56</color>
+    <color name="textcolor">#f23082ce</color>
+</resources>
